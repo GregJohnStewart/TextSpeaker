@@ -1,0 +1,41 @@
+Sounds list for Text Speaker
+
+VOWELS (5)
+[x] a
+[x] e
+[i] i
+[ ] o
+[ ] u
+
+SHORT VOWELS (5)
+[x] a (and)
+[x] e (pen)
+[i] i (in)
+[ ] o (top)
+[ ] u (under)
+
+LONG VOWELS (5)
+[x] a (make)
+[x] e (beet)
+[x] i (tie)
+[ ]	o (coat)
+[ ]	u (rule)
+
+CONSENANT SOUNDS (18)
+[ ] b
+[ ] k
+[ ] d
+[ ] f
+[ ] g
+[ ] h
+[ ] j
+[ ] l
+[ ] m
+[ ] n
+[ ] p
+[ ] r
+[ ] s
+[ ] t
+[ ] v
+[ ] w
+[ ] z
